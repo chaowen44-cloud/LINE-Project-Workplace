@@ -1,0 +1,6 @@
+{
+  "name": "Project Tracking Dashboard",
+  "description": "A highly functional and responsive Project Tracking Dashboard with interactive timeline, calendar, push notifications, and ads tracking sections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
